@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Vipul Kumar Singh 👋
 
-<!--
-**vipulclicks/vipulclicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science (Vth Semester)
+📍 Greater Noida, India
+💻 iOS Student Developer
+🚀  Learning by builading real world projects.
 
-Here are some ideas to get you started:
+##Currently, I am focusing on:
+- Strengthening **Data Structures & Algorithms**
+- Exploring **iOS development**
+- Writing clean, readable, and maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages**
+- Swift
+- SwiftUI
+- Java
+- JavaScript
+- HTML & CSS
+
+**Tools & Technologies**
+- Xcode
+- Git & GitHub
+- VS Code
+- Problem Solving (DSA)
