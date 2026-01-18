@@ -5,7 +5,7 @@
 - iOS Student Developer
 - Learning by building real-world projects.
 
-## Currently, I am focusing on:**
+## Currently, I am focusing on:
 - Strengthening **Data Structures & Algorithms**
 - Exploring **iOS development**
 - Writing clean, readable, and maintainable code.
