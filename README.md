@@ -1,9 +1,9 @@
 # Hi, I'm Vipul Kumar Singh 👋
 
--🎓 B.Tech in Computer Science (Vth Semester)
--📍 Greater Noida, India
--💻 iOS Student Developer
--🚀  Learning by building real-world projects.
+- B.Tech in Computer Science (Vth Semester)
+- Greater Noida, India
+- iOS Student Developer
+- Learning by building real-world projects.
 
 **Currently, I am focusing on:**
 - Strengthening **Data Structures & Algorithms**
