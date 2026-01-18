@@ -5,21 +5,21 @@
 - iOS Student Developer
 - Learning by building real-world projects.
 
-**Currently, I am focusing on:**
+## Currently, I am focusing on:**
 - Strengthening **Data Structures & Algorithms**
 - Exploring **iOS development**
 - Writing clean, readable, and maintainable code.
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### **Languages**
 - Swift
 - SwiftUI
 - Java
 - JavaScript
 - HTML & CSS
 
-**Tools & Technologies**
+### **Tools & Technologies**
 - Xcode
 - Git & GitHub
 - VS Code
