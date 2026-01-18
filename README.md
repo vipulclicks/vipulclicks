@@ -1,7 +1,7 @@
 # Hi, I'm Vipul Kumar Singh 👋
 
 - B.Tech in Computer Science (Vth Semester)
-- Greater Noida, India
+- Galgotias University, Greater Noida, India
 - iOS Student Developer
 - Learning by building real-world projects.
 
