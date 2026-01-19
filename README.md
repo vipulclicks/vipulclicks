@@ -7,7 +7,7 @@
 
 ## Currently, I am focusing on:
 - Strengthening **Data Structures & Algorithms**
-- Exploring **iOS development**
+- Exploring **iOS App development**
 - Writing clean, readable, and maintainable code.
 
 ## 🛠️ Tech Stack
