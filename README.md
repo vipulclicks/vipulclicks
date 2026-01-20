@@ -20,7 +20,13 @@
 - HTML & CSS
 
 ### **Tools & Technologies**
+- Problem Solving (DSA)
+- Figma (UI/UX Prototyping & Wireframing)
 - Xcode
 - Git & GitHub
 - VS Code
-- Problem Solving (DSA)
+
+### 🎨 UI/UX & Design
+- Creating interactive prototypes using Figma
+- Designing intuitive mobile app interfaces
+- Converting ideas into functional UI flows
