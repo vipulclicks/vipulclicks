@@ -1,32 +1,29 @@
-# Hi, I'm Vipul Kumar Singh 👋
+# Hi, I'm Vipul Kumar Singh
 
-- B.Tech in Computer Science (Vth Semester)
-- Galgotias University, Greater Noida, India
-- iOS Student Developer
-- Learning by building real-world projects.
+B.Tech CSE Student @Galgotias University (2023-2027)
+iOS Student Developer passionate about building apps with SwiftUI
+Interested in iOS Development, AI, and Data Structures & Algorithms
 
-## Currently, I am focusing on:
-- Strengthening **Data Structures & Algorithms**
-- Exploring **iOS App development**
-- Writing clean, readable, and maintainable code.
+## Currently Learning
 
-## 🛠️ Tech Stack
+* iOS App Development
+* Data Structures & Algorithms
+* Modern Apple Frameworks
 
-### **Languages**
-- Swift
-- SwiftUI
-- Java
-- JavaScript
-- HTML & CSS
+## Tech Stack
 
-### **Tools & Technologies**
-- Problem Solving (DSA)
-- Figma (UI/UX Prototyping & Wireframing)
-- Xcode
-- Git & GitHub
-- VS Code
+**Languages:** Swift, Java, JavaScript, HTML & CSS
 
-### 🎨 UI/UX & Design
-- Creating interactive prototypes using Figma
-- Designing intuitive mobile app interfaces
-- Converting ideas into functional UI flows
+**Apple:** SwiftUI, SwiftData, FoundationModels, TipKit, VisionKit
+
+**Tools:** Xcode, Git, GitHub, Figma, VS Code
+
+## 📱 Featured Project
+
+### pHinder: pH Made Simple *(Live on the App Store)*
+
+App Store: https://apps.apple.com/in/app/phinder-ph-made-simple/id6780381744
+
+An interactive chemistry learning app featuring a virtual pH lab, on-device AI tutor, real-time pH visualization, and offline support with SwiftData.
+
+⭐ Always learning, building, and sharing real-world projects.
