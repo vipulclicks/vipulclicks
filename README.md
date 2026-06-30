@@ -1,7 +1,9 @@
 # Hi, I'm Vipul Kumar Singh
 
 B.Tech CSE Student @Galgotias University (2023-2027)
+
 iOS Student Developer passionate about building apps with SwiftUI
+
 Interested in iOS Development, AI, and Data Structures & Algorithms
 
 ## Currently Learning
