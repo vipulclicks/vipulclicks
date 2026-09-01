@@ -8,20 +8,25 @@
 ## Currently Learning
 
 * iOS App Development
+* AWS
 * Data Structures & Algorithms
 * Modern Apple Frameworks
 
 ## Tech Stack
 
-**Languages:** Swift, Java, JavaScript, HTML & CSS
+**Languages:** Python, Swift, Java, JavaScript
+
+**Cloud:** AWS(EC2, IAM, S3)
+
+**AI/ML:** Generative AI, Large Language Models (LLMs), Prompt Engineering, FoundationModels
+
+**Methodologies:** Agile, Scrum, SDLC, STLC
+
+**Developer Tools:** Git, GitHub, Jira, Postman, VS Code, Xcode
 
 **Apple:** SwiftUI, SwiftData, FoundationModels, TipKit, VisionKit
 
-**Databases & Backend:** Supabase, MySQL
-
-**Tools:** Xcode, Git, GitHub, Figma, VS Code, Jira
-
-**Development Practices:** Agile Scrum, MVVM Architecture
+**Databases & Backend:** Supabase, MySQL, PostgreSQL
 
 ## 📱 Featured Project
 
