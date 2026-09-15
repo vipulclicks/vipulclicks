@@ -1,12 +1,13 @@
 # Hi, I'm Vipul Kumar Singh
 
 * B.Tech CSE Student @ Galgotias University (2023–2027)
-* Ex iOS Intern @ Infosys
+* Ex Intern @ Infosys
 * iOS Student Developer passionate about building apps with SwiftUI
 * Interested in iOS Development, AI, and Data Structures & Algorithms
 
 ## Currently Learning
 
+* Spring Boot
 * iOS App Development
 * AWS
 * Data Structures & Algorithms
@@ -22,7 +23,7 @@
 
 **Methodologies:** Agile, Scrum, SDLC, STLC
 
-**Developer Tools:** Git, GitHub, Jira, Postman, VS Code, Xcode
+**Developer Tools:** Git, GitHub, Jira, Postman, VS Code, Xcode, IntelliJ
 
 **Apple:** SwiftUI, SwiftData, FoundationModels, TipKit, VisionKit
 
