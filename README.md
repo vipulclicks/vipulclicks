@@ -19,11 +19,13 @@
 
 **Cloud:** AWS(EC2, IAM, S3)
 
-**AI/ML:** Generative AI, Large Language Models (LLMs), Prompt Engineering, FoundationModels
+**AI/ML:** Generative AI, Large Language Models (LLMs), Prompt Engineering, FoundationModels, RAG
 
 **Methodologies:** Agile, Scrum, SDLC, STLC
 
 **Developer Tools:** Git, GitHub, Jira, Postman, VS Code, Xcode, IntelliJ
+
+**Web Technologies:** ReactJS, HTML5, CSS3, REST APIs
 
 **Apple:** SwiftUI, SwiftData, FoundationModels, TipKit, VisionKit
 
