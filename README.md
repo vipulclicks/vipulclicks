@@ -3,7 +3,7 @@
 * B.Tech CSE Student @ Galgotias University (2023–2027)
 * Ex Intern @ Infosys
 * iOS Student Developer passionate about building apps with SwiftUI
-* Interested in iOS Development, AI, and Data Structures & Algorithms
+* Interested in Data Engineering, AI, and Data Structures & Algorithms
 
 ## Currently Learning
 
@@ -17,7 +17,7 @@
 
 **Languages:** Python, Swift, Java, JavaScript
 
-**Cloud:** AWS(EC2, IAM, S3)
+**Cloud:** AWS(EC2, IAM, S3, Athena, Redshift)
 
 **AI/ML:** Generative AI, Large Language Models (LLMs), Prompt Engineering, FoundationModels, RAG
 
